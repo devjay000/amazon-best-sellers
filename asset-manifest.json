@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c400a58e.css",
+    "main.js": "/static/js/main.11d695d0.js",
+    "static/media/tesla.png": "/static/media/tesla.d21616c06d8f0697b24c.png",
+    "static/media/J.png": "/static/media/J.598dd0206e6565bf8525.png",
+    "static/media/harry_owl.jpg": "/static/media/harry_owl.d825e8fe40d5a1823891.jpg",
+    "index.html": "/index.html",
+    "main.c400a58e.css.map": "/static/css/main.c400a58e.css.map",
+    "main.11d695d0.js.map": "/static/js/main.11d695d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c400a58e.css",
+    "static/js/main.11d695d0.js"
+  ]
+}
